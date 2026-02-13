@@ -17,3 +17,4 @@ print(momo + mikan + nashi + kiwi + suika + kaki)
 #対話モードになってて全然実行できなかった。>>>がターミナルに表示されていたら
 #ターミナルにexit()を入力して解決！エラー例：File "<stdin>", line 1 ca
 100 * 5 + 40 * 8
+print("konbanha")
