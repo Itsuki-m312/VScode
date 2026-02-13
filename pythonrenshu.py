@@ -16,4 +16,4 @@ kaki = 110 * 10
 
 print(momo + mikan + nashi + kiwi + suika + kaki)
 #対話モードになってて全然実行できなかった。>>>がターミナルに表示されていたら
-#ターミナルにexit()を入力して解決！エラー例：File "<stdin>", line 1 
+#ターミナルにexit()を入力して解決！エラー例：File "<stdin>", line 1
