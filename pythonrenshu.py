@@ -1,0 +1,2 @@
+print("konbanha")
+print("aiueo")
