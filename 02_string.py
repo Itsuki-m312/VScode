@@ -23,3 +23,4 @@ print(str(num_float))
 
 height = 170
 print("身長は" + str(height) + "cmです")
+
