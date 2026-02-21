@@ -1,4 +1,4 @@
-password = ""
+password = input("パスワードを入力してください")
 
 while password != "1234":
     password = input("正しいパスワードを入力してください")
