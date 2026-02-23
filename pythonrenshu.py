@@ -2,7 +2,7 @@ print("konbanha")
 
 print("aiueo")
 
-3**2
+print(3**2)
 3/2
 0.1 + 0.2
 
@@ -38,3 +38,8 @@ print(int(5 / 2))
 print(float(30))
 #intはfloat型（小数）の値を整数に変換する（小数点以下を切り捨てる）
 #floatは整数の値をfloat型に変換する
+
+B = 100
+A = B + 4
+B = 10 #後からBの値を変更しても、AはAに代入した時のままの値
+print(A)
