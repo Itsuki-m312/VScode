@@ -28,3 +28,12 @@ def print_time():
 
 print_time()
 
+
+#関数の呼び出し方
+#fruit_price("引数１","引数２")とfruit_price(number_of_momo = 1,number_of_mikan=2)がある
+#前者を位置引数、後者をキーワード引数と言う。キーワード引数では、好きな順番に引数を指定できる
+
+def func1(arg = 123):#def 関数名(引数名 = デフォルト値):でデフォルト値(何も指定されなかった時)を指定できる
+    print(arg)
+
+func1()
