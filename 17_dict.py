@@ -17,3 +17,10 @@ del eng["dog"] #要素の削除
 print(eng)
 
 print(len(eng)) #要素数
+
+print("apple" in eng) # キー in 辞書オブジェクトで辞書にキーが登録されているか確認
+
+print("dog" in eng)
+
+
+
